@@ -23,4 +23,5 @@ public class ClienteNegocio {
         
         return resultado;
     }
+        //Este es un comentario para GitHub y de prueba
 }
